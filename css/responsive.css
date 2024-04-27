@@ -1,0 +1,11 @@
+@media screen and (min-width: 768px) {
+    .aside-contenido {
+      justify-content: space-evenly;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .aside-contenido {
+      justify-content: space-around;
+    }
+  }
